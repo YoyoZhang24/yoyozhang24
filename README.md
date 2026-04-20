@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Yoyo Zhang**, a 19-year-old Computer Science & Business Economics student at the University of Chicago. I'm passionate about AI, finance, and education, and I love building side projects in my free time. 
+I'm **Yoyo Zhang**, a Computer Science & Economics double-major at the University of Chicago. I'm passionate about AI, finance, and education, and I love building side projects in my free time. 
 
 💬 Reach me at yoyozhang@uchicago.edu. Let's [connect](https://www.linkedin.com/in/minzhi-yoyo-zhang/)!
 
@@ -11,8 +11,8 @@ I'm **Yoyo Zhang**, a 19-year-old Computer Science & Business Economics student 
 ## 🤔️ Fun facts
 
 - 🌍 I'm fluent in English, Mandarin Chinese, and Shanghainese (learning Spanish and Japanese as well)! 
-- ☕️ My choice of caffine (in descending order): cold brew, diet coke, matcha, earl grey, green tea 
-- 🏃‍♀️ I ran my first half marathon at 18 (Life Time Chicago Half)
+- ☕️ My choice of caffine: cold brew > diet coke > matcha > earl grey > london fog > americano > green tea 
+- 🏃‍♀️ I ran my first half marathon at 18
 - 🍩 I run an Instagram food account: [@yums_with_yoyo](https://www.instagram.com/yums_with_yoyo)
 
 <!--
